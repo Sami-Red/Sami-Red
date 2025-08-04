@@ -9,4 +9,6 @@ I mostly work in **Unity (C#)** and **Unreal (Blueprints)**, with projects explo
 
 ## Let’s Connect
 Feel free to reach out or check out more of my work. I'm always happy to talk games, code, and design.
+
 ![Saaami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Red&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Red&layout=compact&theme=radical)
